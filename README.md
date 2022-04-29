@@ -18,13 +18,13 @@ Flutter Takım 112
 # Product Backlog URL
 #Sonradan Güncellenicek
 # Sprint 1
-- Sprint Notları
-- Sprint İçinde Tamamlanması Tahmin Edilen Puan
-- Puan Tamamlama Mantığı
-- Backlog Düzeni ve Story Seçimleri
-- Daily Scrum
-- Sprint Board Update
-- Ürün Durumu:
-- Sprint Review
-- Sprint Retrospective
+- ### Sprint Notları
+- ### Sprint İçinde Tamamlanması Tahmin Edilen Puan
+- ### Puan Tamamlama Mantığı
+- ### Backlog Düzeni ve Story Seçimleri
+- ### Daily Scrum
+- ### Sprint Board Update
+- ### Ürün Durumu:
+- ### Sprint Review
+- ### Sprint Retrospective
 
