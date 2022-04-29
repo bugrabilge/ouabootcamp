@@ -11,8 +11,20 @@ Flutter Takım 112
 #Sonradan Güncellenicek
 ## Ürün Açıklaması
 - #Sonradan Güncellenicek
+## Ürün Özellikleri
+- #Sonradan Güncellenicek
 # Hedef Kitle
 - #Sonradan Güncellenicek
 # Product Backlog URL
 #Sonradan Güncellenicek
 # Sprint 1
+- Sprint Notları
+- Sprint İçinde Tamamlanması Tahmin Edilen Puan
+- Puan Tamamlama Mantığı
+- Backlog Düzeni ve Story Seçimleri
+- Daily Scrum
+- Sprint Board Update
+- Ürün Durumu:
+- Sprint Review
+- Sprint Retrospective
+
