@@ -19,7 +19,7 @@ Flutter Takım 112
 - Acil cevaba ihtiyacı olanlar
 - 17-36 yaş arası kullanıcılar
 # Product Backlog URL
-#Sonradan Güncellenicek
+### [Trello Backlog Board](https://trello.com/b/mPoz2bjj/bootcamp-sprint-1)
 # Sprint 1
 - ### Sprint Notları
 - ### Sprint İçinde Tamamlanması Tahmin Edilen Puan
