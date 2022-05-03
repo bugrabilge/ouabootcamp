@@ -14,7 +14,10 @@ Flutter Takım 112
 ## Ürün Özellikleri
 - #Sonradan Güncellenicek
 # Hedef Kitle
-- #Sonradan Güncellenicek
+- Dijital Okuryazarlar
+- Karar vermekte zorlananlar
+- Acil cevaba ihtiyacı olanlar
+- 17-36 yaş arası kullanıcılar
 # Product Backlog URL
 #Sonradan Güncellenicek
 # Sprint 1
