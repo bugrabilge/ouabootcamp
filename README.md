@@ -27,17 +27,17 @@ Flutter Takım 112
 - ***Backlog Düzeni ve Story Seçimleri:*** Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
 - ***Daily Scrum:*** 
 - ***Sprint Board Update:***
-- ![TRELLO](https://user-images.githubusercontent.com/95438513/167488430-e43f6e0a-f560-4298-9754-292646d8cae2.JPG)
-- ![placker](https://user-images.githubusercontent.com/95438513/167488601-c799bd9b-3765-4cde-806e-60a953dbb61c.JPG)
+ ![TRELLO](https://user-images.githubusercontent.com/95438513/167488430-e43f6e0a-f560-4298-9754-292646d8cae2.JPG)
+ ![placker](https://user-images.githubusercontent.com/95438513/167488601-c799bd9b-3765-4cde-806e-60a953dbb61c.JPG)
 - ***Ürün Durumu:***
 - ***Sprint Review:***
 Alınan Kararlar: Tasarımların oluşturulması bir sonraki sprinte aktarıldı. Pretotip çalışmasında herhangi bir sorun görülmemiştir. Eklenmesi gereken özellikler belirlenmiştir. 
 Sprint Review Katılımcıları:
-- Buğra Bilge Çelik
-- Feyza Beştoy
-- Hazal Yıldız
-- Seda Karataş
-- Veysel Karani Öksüz
+1. Buğra Bilge Çelik
+2. Feyza Beştoy
+3. Hazal Yıldız
+4. Seda Karataş
+5. Veysel Karani Öksüz
 - ***Sprint Retrospective***
 - Karar vermede çok zaman kaybı yaşandığı tespit edildi. Hızlı kararlar alınması önerildi.
 - Düzenli toplantılar yapılmasına rağmen yeterli olmadığı görüldü. Toplantı tarihlerinin sıklaştırılmasına karar verildi.
