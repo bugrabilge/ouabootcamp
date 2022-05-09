@@ -10,9 +10,11 @@ Flutter Takım 112
 ## Ürün İsmi
 Sonradan Güncellenecek
 ## Ürün Açıklaması
-- Sonradan Güncellenecek
+- Uygulama kullanıcıdan kararsız kaldığı seçenekler ile ilgili pros cons datası oluşturmayı sağlayacak şekilde veriler alır ve bu verileri puanlamasını ister. Daha sonra arada kalınan kararlar karşılaştırılır ve kullancıya yapması gereken en uygun kararı sonuçlandırır.
 ## Ürün Özellikleri
-- Sonradan Güncellenecek
+- Karar verme süresi boyunca yardımcı olma
+- Kararın pozitif ve negatif kısımlarını aynı anda görebilme
+- Kullanıcı dostu arayüz
 # Hedef Kitle
 - Dijital Okuryazarlar
 - Karar vermekte zorlananlar
