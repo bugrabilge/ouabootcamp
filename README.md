@@ -25,7 +25,8 @@ Sonradan Güncellenecek
 - **Sprint İçinde Tamamlanması Tahmin Edilen Puan:** 75 puan
 - **Puan Tamamlama Mantığı:** Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 75 ile başlaması gerektiğine karar verildi.
 - **Backlog Düzeni ve Story Seçimleri:** Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
-- **Daily Scrum:**
+- **Daily Scrum:** Daily Scrum toplantılarımızın zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Konuşamalar txt dosyası halinde görüntülenebilmektedir. [_chat.txt](https://github.com/takim112/ouabootcamp/files/8655437/_chat.txt)
+
 - **Sprint Board Update:**
  ![TRELLO](https://user-images.githubusercontent.com/95438513/167488430-e43f6e0a-f560-4298-9754-292646d8cae2.JPG)
  ![placker](https://user-images.githubusercontent.com/95438513/167488601-c799bd9b-3765-4cde-806e-60a953dbb61c.JPG)
