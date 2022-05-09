@@ -8,11 +8,11 @@ Flutter Takım 112
 - Feyza Beştoy: Developer/ UI-UX Designer
 - Veysel Karani Öksüz: Developer/ Team Member
 ## Ürün İsmi
-Sonradan Güncellenicek
+Sonradan Güncellenecek
 ## Ürün Açıklaması
 - Sonradan Güncellenecek
 ## Ürün Özellikleri
-- #Sonradan Güncellenecek
+- Sonradan Güncellenecek
 # Hedef Kitle
 - Dijital Okuryazarlar
 - Karar vermekte zorlananlar
