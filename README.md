@@ -1,0 +1,33 @@
+# Takım İsmi
+Flutter Takım 112
+# Ürün İle İlgili Bilgiler
+## Takım Elemanları
+- Hazal Yıldız: Product Owner
+- Seda Karataş: Scrum Master
+- Buğra Bilge Çelik: Developer/ Team Member
+- Feyza Beştoy: Developer/ UI-UX Designer
+- Veysel Karani Öksüz: Developer/ Team Member
+## Ürün İsmi
+#Sonradan Güncellenicek
+## Ürün Açıklaması
+- #Sonradan Güncellenicek
+## Ürün Özellikleri
+- #Sonradan Güncellenicek
+# Hedef Kitle
+- Dijital Okuryazarlar
+- Karar vermekte zorlananlar
+- Acil cevaba ihtiyacı olanlar
+- 17-36 yaş arası kullanıcılar
+# Product Backlog URL
+### [Trello Backlog Board](https://trello.com/b/mPoz2bjj/bootcamp-sprint-1)
+# Sprint 1
+- ### Sprint Notları
+- ### Sprint İçinde Tamamlanması Tahmin Edilen Puan
+- ### Puan Tamamlama Mantığı
+- ### Backlog Düzeni ve Story Seçimleri
+- ### Daily Scrum
+- ### Sprint Board Update
+- ### Ürün Durumu:
+- ### Sprint Review
+- ### Sprint Retrospective
+
