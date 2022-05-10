@@ -33,6 +33,10 @@ Sonradan Güncellenecek
  ![TRELLO](https://user-images.githubusercontent.com/95438513/167488430-e43f6e0a-f560-4298-9754-292646d8cae2.JPG)
  ![placker](https://user-images.githubusercontent.com/95438513/167488601-c799bd9b-3765-4cde-806e-60a953dbb61c.JPG)
 - **Ürün Durumu:**
+![1](https://user-images.githubusercontent.com/95438513/167681123-7a896f84-b890-4fea-b136-189d2374a7ed.jpeg)
+![2](https://user-images.githubusercontent.com/95438513/167681147-cc5ad81d-d4b3-4ce0-bf2d-08887b5b6066.jpeg)
+![3](https://user-images.githubusercontent.com/95438513/167681226-b913b686-fad2-4204-89b8-093451a8c7aa.jpeg)
+
 - **Sprint Review:**
 Alınan Kararlar: Tasarımların oluşturulması bir sonraki sprinte aktarıldı. Pretotip çalışmasında herhangi bir sorun görülmemiştir. Eklenmesi gereken özellikler belirlenmiştir. 
 Sprint Review Katılımcıları:
