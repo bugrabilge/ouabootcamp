@@ -51,4 +51,21 @@ Sprint Review Katılımcıları:
 - Karar vermede çok zaman kaybı yaşandığı tespit edildi. Hızlı kararlar alınması önerildi.
 - Düzenli toplantılar yapılmasına rağmen yeterli olmadığı görüldü. Toplantı tarihlerinin sıklaştırılmasına karar verildi.
 - Takım içi  iletişimin güçlü olduğu gözlemlendi. Bu şekilde devam edilmeli.
+# Sprint 2
+- **Sprint Notları:** User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+- **Sprint İçinde Tamamlanması Tahmin Edilen Puan:** 115 puan
+- **Puan Tamamlama Mantığı:** Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. İlk sprint sonrası elde edilen burndown chart verilerine göre 115 puan ile devam edilmesi gerektiğine karar verilmiştir.
+- **Backlog Düzeni ve Story Seçimleri:** Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
+- **Daily Scrum:** 
+
+- **Sprint Board Update:**
+
+- **Ürün Durumu:**
+
+
+- **Sprint Review:**
+
+- **Sprint Retrospective**
+
+
 
