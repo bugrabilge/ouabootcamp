@@ -1,5 +1,5 @@
 # Takım İsmi
-Flutter Takım 112
+The Last Choosers
 # Ürün İle İlgili Bilgiler
 ## Takım Elemanları
 - Hazal Yıldız: Product Owner
@@ -8,7 +8,7 @@ Flutter Takım 112
 - Feyza Beştoy: Developer/ UI-UX Designer
 - Veysel Karani Öksüz: Developer/ Team Member
 ## Ürün İsmi
-Sonradan Güncellenecek
+Son Karar
 ## Ürün Açıklaması
 - Uygulama kullanıcıdan kararsız kaldığı seçenekler ile ilgili pros cons datası oluşturmayı sağlayacak şekilde veriler alır ve bu verileri puanlamasını ister. Daha sonra arada kalınan kararlar karşılaştırılır ve kullancıya yapması gereken en uygun kararı sonuçlandırır.
 ## Ürün Özellikleri
@@ -53,18 +53,26 @@ Sprint Review Katılımcıları:
 - Takım içi  iletişimin güçlü olduğu gözlemlendi. Bu şekilde devam edilmeli.
 # Sprint 2
 - **Sprint Notları:** User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
-- **Sprint İçinde Tamamlanması Tahmin Edilen Puan:** 115 puan
+- **Sprint İçinde Tamamlanması Tahmin Edilen Puan:** 125 puan
 - **Puan Tamamlama Mantığı:** Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. İlk sprint sonrası elde edilen burndown chart verilerine göre 115 puan ile devam edilmesi gerektiğine karar verilmiştir.
 - **Backlog Düzeni ve Story Seçimleri:** Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
 - **Daily Scrum:** 
+ Daily Scrum toplantılarımızın zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Konuşamalar txt dosyası halinde görüntülenebilmektedir.[Daily Chats](https://github.com/takim112/ouabootcamp/files/8750178/WhatsApp.Chat.-.Flutter.112.Bootcamp.1.zip)
 
 - **Sprint Board Update:**
+![Trello](https://user-images.githubusercontent.com/95438513/169713520-62863838-1343-4845-a70c-d1e51cfdbff5.JPG)
 
 - **Ürün Durumu:**
 
 
 - **Sprint Review:**
-
+Alınan Kararlar: Renk seçimleri ve logo tasarımı bir sonraki sprinte aktarıldı. Eklenmesi gereken özellikler belirlenmiştir. 
+Sprint Review Katılımcıları:
+1. Buğra Bilge Çelik
+2. Feyza Beştoy
+3. Hazal Yıldız
+4. Seda Karataş
+5. Veysel Karani Öksüz
 - **Sprint Retrospective**
 
 
