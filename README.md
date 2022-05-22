@@ -68,6 +68,12 @@ Sprint Review Katılımcıları:
 - **Ürün Durumu:**
 
 
+![1](https://user-images.githubusercontent.com/95438513/169715919-eab4b8d4-478b-4d4c-a59d-5a1dfc7ef449.jpeg)
+![2](https://user-images.githubusercontent.com/95438513/169715922-84ab4d07-f4c5-4fca-830e-613bae62b48c.jpeg)
+![3](https://user-images.githubusercontent.com/95438513/169715926-d0a92bd4-c853-4499-b15c-ba0a7f411a7d.jpeg)
+![4](https://user-images.githubusercontent.com/95438513/169715990-ea758d74-1bc3-4116-8906-fa146348e84b.JPG)
+
+
 - **Sprint Review:**
 Alınan Kararlar: Renk seçimleri ve logo tasarımı bir sonraki sprinte aktarıldı. Eklenmesi gereken özellikler belirlenmiştir. Sprint Review Katılımcıları:
 1. Buğra Bilge Çelik
