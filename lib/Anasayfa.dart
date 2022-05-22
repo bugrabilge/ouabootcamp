@@ -9,7 +9,7 @@ class Anasayfa extends StatefulWidget {
   State<Anasayfa> createState() => _AnasayfaState();
 }
 
-class _AnasayfaState extends State<Anasayfa> {
+ class _AnasayfaState extends State<Anasayfa> {
   final List<String> secenekler = [];
   final List<Widget> textFieldlar = [];
   final List<TextEditingController> textEditingControllerlar = [];
@@ -36,13 +36,22 @@ class _AnasayfaState extends State<Anasayfa> {
   }
 
   @override
+
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          title: const Text("Randomla"),
-          leading: IconButton(
+          title: const Text("Karar Ver"),
+          foregroundColor: Colors.black,
+          elevation: 10,
+          centerTitle: true,
+            backgroundColor: Colors.white,
+            //AppBar
+            leading: IconButton(
             icon: const Icon(Icons.add),
+            iconSize: 35,
+            color: Colors.black,
             onPressed: () {
+
               final eklenecekController = TextEditingController();
               final eklenecekAlan = Padding(
                   padding: const EdgeInsets.all(5),
@@ -50,7 +59,10 @@ class _AnasayfaState extends State<Anasayfa> {
                     controller: eklenecekController,
                     decoration: InputDecoration(
                       border: const OutlineInputBorder(),
-                      labelText: "Seçenek ${textEditingControllerlar.length + 1}",
+                      labelText: " ${textEditingControllerlar.length + 1}. Seçenek",
+                      labelStyle: const TextStyle(
+                        color: Colors.black,
+                      )
                     ),
                   ));
 
@@ -63,6 +75,8 @@ class _AnasayfaState extends State<Anasayfa> {
           actions: [
             IconButton(
               icon: const Icon(Icons.delete),
+              iconSize: 30,
+              color: Colors.black,
               onPressed: () {
                 if (textFieldlar.isNotEmpty) {
                   textFieldlar.removeLast();
@@ -73,7 +87,9 @@ class _AnasayfaState extends State<Anasayfa> {
             ),
           ],
         ),
-        body: Column(
+        body: Center(
+          child: Column(
+          mainAxisAlignment: MainAxisAlignment.spaceAround,
           children: [
             Expanded(
               child: ListView.builder(
@@ -83,6 +99,15 @@ class _AnasayfaState extends State<Anasayfa> {
                   }),
             ),
             ElevatedButton(
+              style: ElevatedButton.styleFrom(
+                textStyle: const TextStyle(fontSize: 28),
+                minimumSize: const Size(250, 50,),
+                elevation: 300,
+                primary: Colors.grey,
+                padding: const EdgeInsets.symmetric(horizontal: 90, vertical: 20),
+                onPrimary: Colors.black,
+
+              ),
                 onPressed: () async {
                   seceneklereEkle();
                   var random = Random();
@@ -92,15 +117,15 @@ class _AnasayfaState extends State<Anasayfa> {
                   }
 
                   final alert = AlertDialog(
-                    title: Text("Karar verdim"),
-                    content: Text("Bence :" + karar),
+                    title: const Text("Kararın:"),
+                    content: Text(karar),
                     actions: [
                       TextButton(
                         onPressed: () {
                           Navigator.of(context).pop();
                         },
-                        child: const Text("Teşekkür ederim"),
-                      ),
+                        child: const Text("Yeni Karar"),
+                        ),
                     ],
                   );
                   await showDialog(
@@ -109,8 +134,9 @@ class _AnasayfaState extends State<Anasayfa> {
                   );
                   setState(() {});
                 },
-                child: const Text('Random'))
+                child: const Text('Karar Ver'))
           ],
-        ));
+        ))
+    );
     }
 }
