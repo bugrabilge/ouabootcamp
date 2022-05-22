@@ -56,7 +56,7 @@ Sprint Review Katılımcıları:
 # Sprint 2
 - **Sprint Notları:** User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 - **Sprint İçinde Tamamlanması Tahmin Edilen Puan:** 125 puan
-- **Puan Tamamlama Mantığı:** Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. İlk sprint sonrası elde edilen burndown chart verilerine göre 115 puan ile devam edilmesi gerektiğine karar verilmiştir.
+- **Puan Tamamlama Mantığı:** Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. İlk sprint sonrası elde edilen burndown chart verilerine göre 125 puan ile devam edilmesi gerektiğine karar verilmiştir.
 - **Backlog Düzeni ve Story Seçimleri:** Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
 - **Daily Scrum:** 
  Daily Scrum toplantılarımızın zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Konuşamalar txt dosyası halinde görüntülenebilmektedir.[Daily Chats](https://github.com/takim112/ouabootcamp/files/8750178/WhatsApp.Chat.-.Flutter.112.Bootcamp.1.zip)
