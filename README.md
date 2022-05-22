@@ -21,7 +21,9 @@ Son Karar
 - Acil cevaba ihtiyacı olanlar
 - 17-36 yaş arası kullanıcılar
 # Product Backlog URL
-### [Trello Backlog Board](https://trello.com/b/mPoz2bjj/bootcamp-sprint-1)
+### [Trello Backlog Board1](https://trello.com/b/mPoz2bjj/bootcamp-sprint-1)
+### [Trello Backlog Board2](https://trello.com/b/IO7BxkKP/bootcamp-sprint-2)
+
 # Sprint 1
 - **Sprint Notları:** User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 - **Sprint İçinde Tamamlanması Tahmin Edilen Puan:** 75 puan
@@ -60,7 +62,8 @@ Sprint Review Katılımcıları:
  Daily Scrum toplantılarımızın zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Konuşamalar txt dosyası halinde görüntülenebilmektedir.[Daily Chats](https://github.com/takim112/ouabootcamp/files/8750178/WhatsApp.Chat.-.Flutter.112.Bootcamp.1.zip)
 
 - **Sprint Board Update:**
-![Trello](https://user-images.githubusercontent.com/95438513/169713520-62863838-1343-4845-a70c-d1e51cfdbff5.JPG)
+![Trello](https://user-images.githubusercontent.com/95438513/169714258-25269021-4f71-4158-b705-4d46715000f5.JPG)
+
 
 - **Ürün Durumu:**
 
