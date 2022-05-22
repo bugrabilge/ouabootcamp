@@ -66,14 +66,15 @@ Sprint Review Katılımcıları:
 
 
 - **Sprint Review:**
-Alınan Kararlar: Renk seçimleri ve logo tasarımı bir sonraki sprinte aktarıldı. Eklenmesi gereken özellikler belirlenmiştir. 
-Sprint Review Katılımcıları:
+Alınan Kararlar: Renk seçimleri ve logo tasarımı bir sonraki sprinte aktarıldı. Eklenmesi gereken özellikler belirlenmiştir. Sprint Review Katılımcıları:
 1. Buğra Bilge Çelik
 2. Feyza Beştoy
 3. Hazal Yıldız
 4. Seda Karataş
 5. Veysel Karani Öksüz
 - **Sprint Retrospective**
-
+- Özellikler tartışıldı. Gereksiz görülen özellikler backlogdan kaldırıldı.
+- Bir sonraki sprintte daha çok puan tüketebileceğine karar verildi.
+- Daily Scrumların daha sık meeting üzerinden yapılması kararlaştırıldı.
 
 
