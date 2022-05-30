@@ -106,7 +106,7 @@ class Anasayfa extends StatefulWidget {
                 elevation: 300,
                 primary: Colors.deepOrange,
                 padding: const EdgeInsets.symmetric(horizontal: 90, vertical: 20),
-                onPrimary: Colors.white,
+                onPrimary: Colors.black,
 
               ),
                 onPressed: () async {
