@@ -88,6 +88,7 @@ class Anasayfa extends StatefulWidget {
           ],
         ),
         body: Center(
+
           child: Column(
           mainAxisAlignment: MainAxisAlignment.spaceAround,
           children: [
@@ -103,28 +104,30 @@ class Anasayfa extends StatefulWidget {
                 textStyle: const TextStyle(fontSize: 28),
                 minimumSize: const Size(250, 50,),
                 elevation: 300,
-                primary: Colors.grey,
+                primary: Colors.deepOrange,
                 padding: const EdgeInsets.symmetric(horizontal: 90, vertical: 20),
-                onPrimary: Colors.black,
+                onPrimary: Colors.white,
 
               ),
                 onPressed: () async {
                   seceneklereEkle();
                   var random = Random();
-                  String karar = "Önce seçenek gir";
+                  String karar = "Lütfen bir seçenek giriniz";
                   if(secenekler.isNotEmpty){
                     karar = secenekler[random.nextInt(secenekler.length)];
                   }
 
                   final alert = AlertDialog(
-                    title: const Text("Kararın:"),
+                    backgroundColor: Colors.deepOrangeAccent,
+                    title: const Text("Kararın:",style:TextStyle(color: Colors.white)),
+
                     content: Text(karar),
                     actions: [
                       TextButton(
                         onPressed: () {
                           Navigator.of(context).pop();
                         },
-                        child: const Text("Yeni Karar"),
+                        child: const Text("Yeni Karar",style: TextStyle(color: Colors.white),),
                         ),
                     ],
                   );
