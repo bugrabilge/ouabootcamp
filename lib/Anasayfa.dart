@@ -9,7 +9,7 @@ class Anasayfa extends StatefulWidget {
   State<Anasayfa> createState() => _AnasayfaState();
 }
 
- class _AnasayfaState extends State<Anasayfa> {
+class _AnasayfaState extends State<Anasayfa> {
   final List<String> secenekler = [];
   final List<Widget> textFieldlar = [];
   final List<TextEditingController> textEditingControllerlar = [];
@@ -26,17 +26,17 @@ class Anasayfa extends StatefulWidget {
     }
     super.dispose();
   }
-  void seceneklereEkle(){
-    if(secenekler.isNotEmpty){
+
+  void seceneklereEkle() {
+    if (secenekler.isNotEmpty) {
       secenekler.clear();
     }
-    for(int i = 0; i < textEditingControllerlar.length; i++){
+    for (int i = 0; i < textEditingControllerlar.length; i++) {
       secenekler.add(textEditingControllerlar[i].text);
     }
   }
 
   @override
-
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
@@ -44,26 +44,25 @@ class Anasayfa extends StatefulWidget {
           foregroundColor: Colors.black,
           elevation: 10,
           centerTitle: true,
-            backgroundColor: Colors.white,
-            //AppBar
-            leading: IconButton(
+          backgroundColor: Colors.white,
+          //AppBar
+          leading: IconButton(
             icon: const Icon(Icons.add),
             iconSize: 35,
             color: Colors.black,
             onPressed: () {
-
               final eklenecekController = TextEditingController();
               final eklenecekAlan = Padding(
                   padding: const EdgeInsets.all(5),
                   child: TextField(
                     controller: eklenecekController,
                     decoration: InputDecoration(
-                      border: const OutlineInputBorder(),
-                      labelText: " ${textEditingControllerlar.length + 1}. Seçenek",
-                      labelStyle: const TextStyle(
-                        color: Colors.black,
-                      )
-                    ),
+                        border: const OutlineInputBorder(),
+                        labelText:
+                            " ${textEditingControllerlar.length + 1}. Seçenek",
+                        labelStyle: const TextStyle(
+                          color: Colors.black,
+                        )),
                   ));
 
               setState(() {
@@ -88,8 +87,7 @@ class Anasayfa extends StatefulWidget {
           ],
         ),
         body: Center(
-
-          child: Column(
+            child: Column(
           mainAxisAlignment: MainAxisAlignment.spaceAround,
           children: [
             Expanded(
@@ -100,35 +98,41 @@ class Anasayfa extends StatefulWidget {
                   }),
             ),
             ElevatedButton(
-              style: ElevatedButton.styleFrom(
-                textStyle: const TextStyle(fontSize: 28),
-                minimumSize: const Size(250, 50,),
-                elevation: 300,
-                primary: Colors.deepOrange,
-                padding: const EdgeInsets.symmetric(horizontal: 90, vertical: 20),
-                onPrimary: Colors.black,
-
-              ),
+                style: ElevatedButton.styleFrom(
+                  textStyle: const TextStyle(fontSize: 28),
+                  minimumSize: const Size(
+                    250,
+                    50,
+                  ),
+                  elevation: 300,
+                  primary: Colors.deepOrange,
+                  padding:
+                      const EdgeInsets.symmetric(horizontal: 90, vertical: 20),
+                  onPrimary: Colors.black,
+                ),
                 onPressed: () async {
                   seceneklereEkle();
                   var random = Random();
-                  String karar = "Lütfen bir seçenek giriniz";
-                  if(secenekler.isNotEmpty){
+                  String karar = "Yeni bir seçenek giriniz";
+                  if (secenekler.isNotEmpty) {
                     karar = secenekler[random.nextInt(secenekler.length)];
                   }
 
                   final alert = AlertDialog(
                     backgroundColor: Colors.deepOrangeAccent,
-                    title: const Text("Kararın:",style:TextStyle(color: Colors.white)),
-
+                    title: const Text("Kararınız:",
+                        style: TextStyle(color: Colors.white)),
                     content: Text(karar),
                     actions: [
                       TextButton(
                         onPressed: () {
                           Navigator.of(context).pop();
                         },
-                        child: const Text("Yeni Karar",style: TextStyle(color: Colors.white),),
+                        child: const Text(
+                          "Yeni Kararınız",
+                          style: TextStyle(color: Colors.white),
                         ),
+                      ),
                     ],
                   );
                   await showDialog(
@@ -139,7 +143,6 @@ class Anasayfa extends StatefulWidget {
                 },
                 child: const Text('Karar Ver'))
           ],
-        ))
-    );
-    }
+        )));
+  }
 }
