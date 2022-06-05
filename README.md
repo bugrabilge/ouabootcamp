@@ -87,3 +87,29 @@ Alınan Kararlar: Renk seçimleri ve logo tasarımı bir sonraki sprinte aktarı
 - Daily Scrumların daha sık meeting üzerinden yapılması kararlaştırıldı.
 
 
+# Sprint 3
+- **Sprint Notları:** User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+- **Sprint İçinde Tamamlanması Tahmin Edilen Puan:** 133 puan
+- **Puan Tamamlama Mantığı:** Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. Sprint sonrası elde edilen burndown chart verilerine göre 133 puan ile devam edilmesi gerektiğine karar verilmiştir. Puanlarda artık kalınması göze alınmış bu yüzden teslim tarihi sebebiyle prodcutta kısıtlanmaya gidilmiştir.
+- **Backlog Düzeni ve Story Seçimleri:** Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
+- **Daily Scrum:** 
+ Daily Scrum toplantılarımızın zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Konuşamalar txt dosyası halinde görüntülenebilmektedir.
+[Daily Chats](https://github.com/takim112/ouabootcamp/files/8840669/WhatsApp.Chat.-.Flutter.112.Bootcamp.2.zip)
+
+- **Sprint Board Update:**
+
+![Trello](https://user-images.githubusercontent.com/95438513/172068216-bf1131de-1390-483e-abde-06490009e40f.JPG)
+
+
+- **Ürün Durumu:**
+
+- **Sprint Review:**
+Alınan Kararlar: Puanlarda artık kalınması göze alınmış bu yüzden teslim tarihi sebebiyle takım kararıyla prodcutta kısıtlanmaya gidilmiştir.Backlog azaltılmış verim arttırılmasına önem verilmiştir. Sprint Review Katılımcıları:
+1. Buğra Bilge Çelik
+2. Feyza Beştoy
+3. Hazal Yıldız
+4. Seda Karataş
+5. Veysel Karani Öksüz
+- **Sprint Retrospective**
+- Zaman yönetiminin daha iyi olabileceği tartışıldı.
+- İstenen app elde edilemediğinden bir sonraki projeler için daha fazla çaba sarf edilmesi kararlaştırıldı.
