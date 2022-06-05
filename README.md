@@ -23,7 +23,7 @@ Son Karar
 # Product Backlog URL
 ### [Trello Backlog Board1](https://trello.com/b/mPoz2bjj/bootcamp-sprint-1)
 ### [Trello Backlog Board2](https://trello.com/b/IO7BxkKP/bootcamp-sprint-2)
-### [Trello Backlog Board2](https://trello.com/b/mzIogMA2/bootcamp-sprint-3)
+### [Trello Backlog Board3](https://trello.com/b/mzIogMA2/bootcamp-sprint-3)
 
 
 # Sprint 1
