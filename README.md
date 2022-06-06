@@ -103,6 +103,7 @@ Alınan Kararlar: Renk seçimleri ve logo tasarımı bir sonraki sprinte aktarı
 ![Trello](https://user-images.githubusercontent.com/95438513/172068216-bf1131de-1390-483e-abde-06490009e40f.JPG)
 
 - **Ürün Durumu:**
+
 ![2](https://user-images.githubusercontent.com/95438513/172240954-f933cae3-85c1-4a27-8680-e69a3273c2de.JPG)
 ![1](https://user-images.githubusercontent.com/95438513/172241025-34b241c4-2402-4171-9b6d-dbe43e41cc29.JPG)
 
